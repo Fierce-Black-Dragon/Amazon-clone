@@ -1,0 +1,19 @@
+.Checkout{
+    display: flex;
+    min-height: 100vh;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    height: max-content;
+}
+
+
+.Checkout_ad{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.checkout_title{
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
